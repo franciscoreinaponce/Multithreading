@@ -23,6 +23,7 @@ dist/
 nbdist/
 .nb-gradle/
 
+bin/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
